@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TwitterAnalyzer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="twitter_search">Twitter Search</string>
+    <string name="Tweets" >Tweets</string>
+    <string name="twwet_analyzer_title">Tweet Analyzer</string>
+    <string name="trends_location">Trends By Location</string>
+</resources>

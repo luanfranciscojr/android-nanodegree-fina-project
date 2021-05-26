@@ -12,7 +12,7 @@ https://cloud.google.com/natural-language
 
 Variables:
   LANGUAGE_API_KEY = "KEY"
-  
+
   TWITTER_API_KEY = "Bearer KEY"
 
 ## Screens

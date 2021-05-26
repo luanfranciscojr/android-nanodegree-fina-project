@@ -4,7 +4,7 @@ Android Nanodegree project final Udacity
 ## Project Instructions
 The Apk binary could be found in the folder /apk/twitter_analyzer.apk
 
-To Build the project you should put twitter api key and google language api key in "/keys.properties"
+To Build the project you should put twitter api key and google language api key in **"/keys.properties"**
 
 https://developer.twitter.com/en/docs
 
